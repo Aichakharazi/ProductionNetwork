@@ -1,0 +1,201 @@
+region,sector,indout,backlog
+GB,Paddy rice,0,3.209
+GB,Wheat,4024.128971,3.209
+GB,Cereal grains nec,2313.137106,3.209
+GB,"Vegetables, fruit, nuts",5073.516767,3.209
+GB,Oil seeds,1619.759549,3.209
+GB,"Sugar cane, sugar beet",108.5668309,3.209
+GB,Plant-based fibers,4.59950891,3.209
+GB,Crops nec,4330.5135,3.209
+GB,Cattle,3875.466932,3.209
+GB,Pigs,1970.05807,3.209
+GB,Poultry,4722.670296,3.209
+GB,Meat animals nec,2201.55925,3.209
+GB,Animal products nec,120.5037439,3.209
+GB,Raw milk,5900.592809,3.209
+GB,"Wool, silk-worm cocoons",18.73530506,3.209
+GB,Manure (conventional treatment),0,3.209
+GB,Manure (biogas treatment),0,3.209
+GB,"Products of forestry, logging and related services (02)",765.668721,3.209
+GB,Fish and other fishing products; services incidental of fishing (05),2230.428437,3.209
+GB,Anthracite,5.037051029,3.209
+GB,Coking Coal,0.586995642,3.209
+GB,Other Bituminous Coal,1941.781048,3.209
+GB,Sub-Bituminous Coal,2.26073486,3.209
+GB,Patent Fuel,15.73373975,3.209
+GB,Lignite/Brown Coal,1.460522906,3.209
+GB,BKB/Peat Briquettes,9.014596383,3.209
+GB,Peat,0.423588459,3.209
+GB,"Crude petroleum and services related to crude oil extraction, excluding surveying",53214.38648,3.209
+GB,"Natural gas and services related to natural gas extraction, excluding surveying",7455.749463,3.209
+GB,Natural Gas Liquids,632.1570387,3.209
+GB,Other Hydrocarbons,0,3.209
+GB,Uranium and thorium ores (12),58.7934048,3.209
+GB,Iron ores,0.01804749,3.209
+GB,Copper ores and concentrates,2.325086998,3.209
+GB,Nickel ores and concentrates,37.25161238,3.209
+GB,Aluminium ores and concentrates,0,3.209
+GB,Precious metal ores and concentrates,6.613849602,3.209
+GB,"Lead, zinc and tin ores and concentrates",0.610196318,3.209
+GB,Other non-ferrous metal ores and concentrates,0.000121069,3.209
+GB,Stone,1467.507349,3.209
+GB,Sand and clay,1802.607581,3.209
+GB,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",8255.248959,3.209
+GB,Products of meat cattle,1986.84289,3.209
+GB,Products of meat pigs,906.1873259,3.209
+GB,Products of meat poultry,8193.340668,3.209
+GB,Meat products nec,18691.7754,3.209
+GB,products of Vegetable oils and fats,959.2764114,3.209
+GB,Dairy products,8287.598947,2.368
+GB,Processed rice,254.929845,2.368
+GB,Sugar,94.33252446,2.368
+GB,Food products nec,37085.08363,2.368
+GB,Beverages,22448.51419,2.368
+GB,Fish products,4356.224757,2.368
+GB,Tobacco products (16),3357.624902,2.368
+GB,Textiles (17),9959.58626,2.368
+GB,Wearing apparel; furs (18),6038.022046,2.368
+GB,Leather and leather products (19),1838.669522,2.368
+GB,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),12371.19413,2.368
+GB,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0,2.368
+GB,Pulp,9124.377887,2.368
+GB,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0,2.368
+GB,Paper and paper products,13011.51458,2.368
+GB,Printed matter and recorded media (22),36821.36555,2.368
+GB,Coke Oven Coke,669.891075,2.368
+GB,Gas Coke,0,2.368
+GB,Coal Tar,15.40254066,2.368
+GB,Motor Gasoline,12554.02293,2.368
+GB,Aviation Gasoline,2.918954986,2.368
+GB,Gasoline Type Jet Fuel,0,2.368
+GB,Kerosene Type Jet Fuel,827.5663579,2.368
+GB,Kerosene,5333.809342,2.368
+GB,Gas/Diesel Oil,11899.11712,2.368
+GB,Heavy Fuel Oil,1784.352538,2.368
+GB,Refinery Gas,56.10152525,2.368
+GB,Liquefied Petroleum Gases (LPG),1929.359508,2.368
+GB,Refinery Feedstocks,61.99809417,2.368
+GB,Ethane,43.33387283,2.368
+GB,Naphtha,390.3037938,2.368
+GB,White Spirit & SBP,107.0434319,2.368
+GB,Lubricants,103.9880621,2.368
+GB,Bitumen,88.30115733,2.368
+GB,Paraffin Waxes,8.4075635,2.368
+GB,Petroleum Coke,85.68503497,2.368
+GB,Non-specified Petroleum Products,57.58904951,2.368
+GB,Nuclear fuel,983.5842747,2.368
+GB,"Plastics, basic",43052.28748,2.368
+GB,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0,2.368
+GB,N-fertiliser,18.67899891,2.368
+GB,P- and other fertiliser,258.0691477,2.368
+GB,Chemicals nec,22596.46979,2.368
+GB,Charcoal,0,2.368
+GB,Additives/Blending Components,0,2.368
+GB,Biogasoline,11.38096837,2.368
+GB,Biodiesels,189.7464237,2.368
+GB,Other Liquid Biofuels,0,2.368
+GB,Rubber and plastic products (25),36319.14465,2.368
+GB,Glass and glass products,5133.141681,2.368
+GB,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0,2.368
+GB,Ceramic goods,1680.392725,2.368
+GB,"Bricks, tiles and construction products, in baked clay",1466.991413,2.368
+GB,"Cement, lime and plaster",13178.95127,2.368
+GB,"Ash for treatment, Re-processing of ash into clinker",0,2.368
+GB,Other non-metallic mineral products,3758.833722,2.368
+GB,Basic iron and steel and of ferro-alloys and first products thereof,10459.96341,2.368
+GB,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0,2.368
+GB,Precious metals,1932.54659,2.368
+GB,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0,2.368
+GB,Aluminium and aluminium products,8010.48601,2.368
+GB,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0,2.368
+GB,"Lead, zinc and tin and products thereof",1809.010533,2.368
+GB,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0,2.368
+GB,Copper products,3265.408897,2.368
+GB,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0,2.368
+GB,Other non-ferrous metal products,1982.930304,2.368
+GB,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0,2.368
+GB,Foundry work services,5971.987826,2.368
+GB,"Fabricated metal products, except machinery and equipment (28)",49938.09813,2.368
+GB,Machinery and equipment n.e.c. (29),61045.7394,2.368
+GB,Office machinery and computers (30),14161.19738,2.368
+GB,Electrical machinery and apparatus n.e.c. (31),34291.22553,2.368
+GB,"Radio, television and communication equipment and apparatus (32)",24957.67872,2.368
+GB,"Medical, precision and optical instruments, watches and clocks (33)",31775.89849,2.368
+GB,"Motor vehicles, trailers and semi-trailers (34)",70668.74642,2.368
+GB,Other transport equipment (35),35955.75135,2.368
+GB,Furniture; other manufactured goods n.e.c. (36),33818.67613,2.368
+GB,Secondary raw materials,73.99429444,2.368
+GB,"Bottles for treatment, Recycling of bottles by direct reuse",0,2.368
+GB,Electricity by coal,6643.795527,3.209
+GB,Electricity by gas,21204.66303,3.209
+GB,Electricity by nuclear,4844.244456,3.209
+GB,Electricity by hydro,304.8575649,3.209
+GB,Electricity by wind,368.9041475,3.209
+GB,Electricity by petroleum and other oil derivatives,595.3519907,3.209
+GB,Electricity by biomass and waste,626.7959799,3.209
+GB,Electricity by solar photovoltaic,4.705897448,3.209
+GB,Electricity by solar thermal,0,3.209
+GB,"Electricity by tide, wave, ocean",0,3.209
+GB,Electricity by Geothermal,0,3.209
+GB,Electricity nec,118.5366054,3.209
+GB,Transmission services of electricity,9053.8218,3.209
+GB,Distribution and trade services of electricity,41122.54417,3.209
+GB,Coke oven gas,83.69611513,3.209
+GB,Blast Furnace Gas,213.1906975,3.209
+GB,Oxygen Steel Furnace Gas,0,3.209
+GB,Gas Works Gas,0,3.209
+GB,Biogas,86.2495746,3.209
+GB,Distribution services of gaseous fuels through mains,12057.66623,3.209
+GB,Steam and hot water supply services,52.80060132,3.209
+GB,"Collected and purified water, distribution services of water (41)",10360.21395,3.209
+GB,Construction work (45),424482.0599,4.897
+GB,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0,4.897
+GB,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",94862.52361,3.209
+GB,Retail trade services of motor fuel,5742.474498,3.209
+GB,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",50187.85723,3.209
+GB,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",39150.5275,3.209
+GB,Hotel and restaurant services (55),235934.408,3.209
+GB,Railway transportation services,35388.37617,3.209
+GB,Other land transportation services,95241.82399,3.209
+GB,Transportation services via pipelines,686.3601252,3.209
+GB,Sea and coastal water transportation services,30166.55287,3.209
+GB,Inland water transportation services,531.372141,3.209
+GB,Air transport services (62),47165.46211,3.209
+GB,Supporting and auxiliary transport services; travel agency services (63),118647.4017,3.209
+GB,Post and telecommunication services (64),131837.1073,3.209
+GB,"Financial intermediation services, except insurance and pension funding services (65)",174981.3325,3.209
+GB,"Insurance and pension funding services, except compulsory social security services (66)",94271.90621,3.209
+GB,Services auxiliary to financial intermediation (67),28870.34102,3.209
+GB,Real estate services (70),400368.3271,3.209
+GB,Renting services of machinery and equipment without operator and of personal and household goods (71),56924.38985,3.209
+GB,Computer and related services (72),145626.4135,3.209
+GB,Research and development services (73),21813.82197,3.209
+GB,Other business services (74),424338.0984,3.209
+GB,Public administration and defence services; compulsory social security services (75),238875.4539,3.209
+GB,Education services (80),265327.7718,3.209
+GB,Health and social work services (85),328676.1576,3.209
+GB,Food waste for treatment: incineration,833.1315036,3.209
+GB,Paper waste for treatment: incineration,847.3381232,3.209
+GB,Plastic waste for treatment: incineration,199.0567144,3.209
+GB,Intert/metal waste for treatment: incineration,1206.347575,3.209
+GB,Textiles waste for treatment: incineration,185.496248,3.209
+GB,Wood waste for treatment: incineration,215.422807,3.209
+GB,Oil/hazardous waste for treatment: incineration,811.3748757,3.209
+GB,Food waste for treatment: biogasification and land application,66.08212218,3.209
+GB,Paper waste for treatment: biogasification and land application,7.883407328,3.209
+GB,Sewage sludge for treatment: biogasification and land application,4169.029386,3.209
+GB,Food waste for treatment: composting and land application,8022.56128,3.209
+GB,Paper and wood waste for treatment: composting and land application,0,3.209
+GB,Food waste for treatment: waste water treatment,1059.533426,3.209
+GB,Other waste for treatment: waste water treatment,2131.428817,3.209
+GB,Food waste for treatment: landfill,4227.321269,3.209
+GB,Paper for treatment: landfill,3472.027208,3.209
+GB,Plastic waste for treatment: landfill,2043.919935,3.209
+GB,Inert/metal/hazardous waste for treatment: landfill,3706.393614,3.209
+GB,Textiles waste for treatment: landfill,598.0754394,3.209
+GB,Wood waste for treatment: landfill,1064.112827,3.209
+GB,Membership organisation services n.e.c. (91),32460.1081,3.209
+GB,"Recreational, cultural and sporting services (92)",113278.131,3.209
+GB,Other services (93),25814.53475,3.209
+GB,Private households with employed persons (95),9259.068043,3.209
+GB,Extra-territorial organizations and bodies,0,3.209
